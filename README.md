@@ -6,4 +6,4 @@ The goal of this project was to utilize my knowledge of Microsoft Power BI in or
 
 ![Dashboard](https://github.com/r-kish/Data-Professional-Survey-Analysis/blob/main/PowerBIDashboard.png)
 
-Data for this project was extracted from a GitHub account full of publicly accessible data. Datasets were cleaned in Microsoft SQL Server and Excel, then transferred to Tableau for visualization and dashboard creation.
+Data for this project was extracted from a GitHub account full of publicly accessible data. Datasets were cleaned in Excel, then loaded into Microsoft Power BI for visualizing elements which were compiled into an interactive dashboard.
